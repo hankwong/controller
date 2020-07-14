@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 13 20:13:27 CST 2020
+http\://ck.dev.mall.autohome.com.cn/nexus/content/groups/public/.lastUpdated=1594642407488
+http\://94.191.6.149\:8800/repository/maven-public/.error=Could not transfer artifact org.codehaus.cargo\:cargo-parent\:pom\:4.11 from/to nexus-mirror (http\://94.191.6.149\:8800/repository/maven-public/)\: Error transferring file\: Connection refused (Connection refused)
+default-http\://94.191.6.149\:8800/repository/maven-public/.lastUpdated=1594642406888
